@@ -60,7 +60,7 @@ DEFAULT_IGNORE_FILE = """\
 # from your .gitignore file, remove the corresponding line
 # below:
 .git
-.gitignore
+/.gitignore
 """
 _GCLOUDIGNORE_PATH_SEP = '/'
 _ENDS_IN_ODD_NUMBER_SLASHES_RE = r'(?<!\\)\\(\\\\)*$'
